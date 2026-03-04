@@ -1,11 +1,13 @@
 ## Hi there 👋
+ - 🔭 I am currently working on a python script to manage the user history in ipython, and a simple python script to generate quick linear/        curve fittings to large data sets.
+ - 🌱 I am currently studying Physics at the Unversity of york. And learning Javascript.
 
 <!--
 **LGregg-Allured/LGregg-Allured** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
